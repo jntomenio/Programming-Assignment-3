@@ -153,19 +153,19 @@ cars.loc[
 # Return the 'cyl' and 'gear' columns for the filtered rows
 ] [['Model', 'cyl', 'gear']]
 ```
-
+> [!TIP]
+> This repository lacks a predefined output, in contrast to the prior PA2, due to its design, which fosters engagement and stimulates interest in Pandas. It would be best to explore it yourself to fully understand its functionalities and applications.
 
 ## Author
 Julian Bernice Kristoffer Tomenio
-- @jntomenio — https://github.com/jntomenio
 
 
 ## 🔑 Version History
 - 1.03
-  - Amended and completed the ReadMe file.
+  - Amended and completed the README file.
 
 - 1.02
-  - Added the ReadMe file.
+  - Added the README file.
 
 - 1.01
   - Added the supplemental files
