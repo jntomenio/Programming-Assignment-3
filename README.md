@@ -21,7 +21,7 @@
 
 ### :bulb: How to save a Python file?
 **1.** You can download a copy of the python as a `.py` script from `FILE` menu in the upper left corner.
-![image](https://github.com/user-attachments/assets/6b0e27db-bffc-4eef-b09d-03d9acd30c4c)
+![image](https://i.sstatic.net/L1rQH.png)
 
 **2.** To save the existing python notebook as python file **using python command code**. Introducing one of the *Python File Modes*:
 - **Write Mode ('w')**: Overwrites existing content or creates a new file.
@@ -49,9 +49,8 @@ with open(filename, 'w') as file:
 
 > [!IMPORTANT]
 > :file_folder: Save this DataFrame to your default user folder by downloading this [link](http://bit.ly/Cars_file).
-> - ###### This file folder (***cars.csv***) will be used for both Python problems.[^1]
+> - ###### This file folder (***cars.csv***) will be used for both Python problems.
 
-[^1]: http://bit.ly/Cars_file 
 ---
 
 ### Python Demo 1: *Problem 1*
